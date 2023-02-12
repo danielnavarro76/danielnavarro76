@@ -1,17 +1,19 @@
-# Hola, mi nombre es Daniel Navarro 👋
-Soy estudiante de un grado medio de **sistemas microinformaticos y redes**
+# Daniel Navarro
+_Tecnico informatico_
+<br>
+Soy estudiante de un grado medio de **sistemas microinformaticos y redes** en San Valero
 
 
 
 
-Here are some ideas to get you started:
+
 
 ## Aptitudes
 - Montaje de maquinas **EC2 ,S3 y RDS en la nube de AWS**
 - Nivel basico de lenguajes de programacion: **html, python y css**
-- Nivel avanzado de aplicaciones ofimaticas : **Excel, Access, Word **
-- Montaje en local de servidores DHCP, DNS y APACHE
-- 
+- Nivel avanzado de aplicaciones ofimaticas : **Excel, Access, Word**
+- Montaje en local de servidores **DHCP, DNS y APACHE**
+
 ## Idiomas
 - Ingles: B1
 - Frances: B1
