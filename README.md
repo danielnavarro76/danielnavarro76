@@ -8,18 +8,20 @@ Here are some ideas to get you started:
 
 ## Aptitudes
 - Montaje de maquinas **EC2 ,S3 y RDS en la nube de AWS**
-- Lenguajes de programacion: **html, python y css**
-- Nivel avanzado de aplicaciones ofimaticas : Excel, Access, Word ...
+- Nivel basico de lenguajes de programacion: **html, python y css**
+- Nivel avanzado de aplicaciones ofimaticas : **Excel, Access, Word **
 - Montaje en local de servidores DHCP, DNS y APACHE
+- 
 ## Idiomas
 - Ingles: B1
 - Frances: B1
 
 ## Objetivos
-- Trabajar en algo que me apasiona
-- Poder ganar mi primero sueldo
--
-- 
+- Trabajar en practicas en ciberseguridad
+- Poder ganar mi primer sueldo
+
+
 ## Contacto
-Correo de contacto : danielnaju@gmail.com
+- Correo de contacto : a25607@svalero.com
+- Linkedin : [Mi perfil](https://www.linkedin.com/in/daniel-navarro-94b734239/)
 
